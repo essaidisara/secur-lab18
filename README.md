@@ -121,7 +121,7 @@ Resources
 - `firebase_database_url` = `https://firestorm-9d3db-default-rtdb.firebaseio.com`
 - <img width="1555" height="607" alt="image" src="https://github.com/user-attachments/assets/f410c3a7-38df-46c6-8153-7ef41ffd81c9" />
 
-- `google_api_key` = `AIzaSyAXsK0qsx4RuLSA9C8IPSWd0eQ67HVHuJY`
+- `google_api_key` = `AIzaSyAXsK0q********************HuJY`
 - <img width="1432" height="246" alt="image" src="https://github.com/user-attachments/assets/de5d7344-2aee-415a-9316-5da6633fe247" />
 
 >  Les credentials Firebase sont stockés en clair dans l'APK. N'importe qui peut les extraire avec Jadx.
